@@ -16,5 +16,6 @@
 		<module>jdbc-source</module>
 		<module>rabbit-sink</module>
 		<module>splitter-processor</module>
+		<module>simple-frp-source</module>
 	</modules>
 </project>
